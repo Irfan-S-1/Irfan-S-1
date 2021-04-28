@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Irfan Iqbal Sheikh
 - 👀 I’m interested in Data Science and NLP
 - 🌱 I’m currently learning Machine learning ,Deep learning and statistical analysis
-- 💞️ I’m looking to collaborate on Full time Data Scientist or Data Analyst role
+- 💞️ I’m looking to collaborate on Full time Data Scientist/NLP/ML Job Role
 - 📫 How to reach me Maild ID- MrIrfan.Sheikh@outlook.com
 
 <!---
